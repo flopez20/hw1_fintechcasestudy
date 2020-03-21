@@ -3,12 +3,12 @@ Fintech Bootcamp HW1
 This is draft of what I am going to write for the case study hw1. For the purpose of the class activity
 # Name of the company
 
-! [fcb](images/fcb.jpg)
+![fcb](images/fcb_logo.jpg) 
 
 
 ## Description
 * 1899 : founded
-* MVP : Leonel Messi
+* MVP : **Leonel Messi**
 
 ### Table of Contents :
 
