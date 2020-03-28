@@ -12,8 +12,8 @@ This is draft of what I am going to write for the case study hw1. For the purpos
 
 ### Table of Contents :
 
-1. Name [link](Name-of-the-company)
-2. Description [link](Description)
+1. Name [link](#Name-of-the-company)
+2. Description [link](##Description)
 
 
 
