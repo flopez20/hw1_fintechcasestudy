@@ -82,21 +82,14 @@ https://content-na1.emarketer.com/is-mobile-phone-banking-usage-near-saturation
 Investopia's 2020 Best Online Brokers Awards
 <b style="font-size:40px">!:trophy:</b>(https://www.investopedia.com/broker-awards-4587871)
 
-## Results
+## Recommendation
 
 
 Its' technologic and data moats in addition with their no commision free investing value proposition has changed the way the industry used to work by increasing competition traditional financial institutions reduced their costs too!!! as a result we have all benefit from its existance.
 
 In addition to the cost advantages, robinhood was also a pioneer in introducing fractional shares investments through an app. By allowing investors to invest as little as $1 in any stock, it has gained a lot of interest with investors that werent able to buy expensive per share tickets ot cryptos.
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
-
-
-
-
-
-
+Due to the increasing competition in the market and the large investments that the traditional players are making to re gain market share I see the usage of Machine Learning and AI as an opportunity for Robinhood. 
 
 
 ---
